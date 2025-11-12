@@ -35,7 +35,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/contact.jpg
+      url: /images/Logo-TWENTY5TEN kopie-04.svg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
