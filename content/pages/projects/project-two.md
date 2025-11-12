@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Abyssal Voyage
 colors: colors-a
-date: '2025-11-20'
+date: '2025-11-11'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
