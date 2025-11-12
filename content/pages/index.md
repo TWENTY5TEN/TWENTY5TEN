@@ -15,7 +15,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/Logo-TWENTY5TEN.png
         altText: Image three
         caption: Image three caption
         elementId: ''
