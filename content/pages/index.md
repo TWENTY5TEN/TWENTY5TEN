@@ -20,7 +20,7 @@ sections:
         caption: Image three caption
         elementId: ''
     colors: colors-f
-    spacing: 16
+    spacing: 56
     columns: 1
     aspectRatio: auto
     showCaption: false
