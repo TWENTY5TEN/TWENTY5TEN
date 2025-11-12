@@ -35,7 +35,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Logo-TWENTY5TEN kopie-04.svg
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
