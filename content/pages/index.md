@@ -24,7 +24,7 @@ sections:
     columns: 1
     aspectRatio: auto
     showCaption: false
-    enableHover: true
+    enableHover: false
     elementId: ''
     styles:
       self:
